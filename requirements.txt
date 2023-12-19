@@ -1,0 +1,10 @@
+numpy
+matplotlib
+altair
+scipy
+vega_datasets
+regex
+Flask
+plotly
+pyLDAvis
+python-dotenv
